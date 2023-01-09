@@ -11,6 +11,3 @@
 ![interview tips](https://user-images.githubusercontent.com/9143339/186253220-fae6fba0-abfe-40c7-b9f9-5178208c3c9d.png)
 
 ![breakout session](https://user-images.githubusercontent.com/9143339/186253236-574589e1-511a-49d1-bc00-2c49b8e02f47.png)
-
-
-  ## [Past Workshop Issue](https://github.com/github/octoseven-advocats/issues/85)

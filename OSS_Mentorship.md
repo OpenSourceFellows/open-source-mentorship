@@ -1,8 +1,7 @@
 [Sign up here](https://forms.gle/ZdLDDTExwj6NrKuK8)
 
 
-# Next Cohort: Jan 30 - Feb 21st 2022 | [more info](https://github.com/github/octoseven-advocats/issues/106)
-
+# Next Cohort: Jan 30 - Feb 21st 2022 
 ## What is an Open Source Mentor?
 
 Advocats are working with MLH to provide student fellows first hand open source experience through working on [ProgramEquity](https://programequity.notion.site/ProgramEquity-6795c87b9a4a4eeea868294eacdb957c)’s project [Amplify](https://github.com/ProgramEquity/amplify) and  career-related workshops. To learn more about the MLH Open Source Fellowship, go [here](https://fellowship.mlh.io/programs/open-source).

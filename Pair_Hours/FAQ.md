@@ -11,8 +11,7 @@ Hi there, thank you for joining as a mentor during our pair hours!  Please add a
 ### What is the structure of the hour?
 - (10-15) intros and wallkthrough of issues/bugs that pair hour 
 - (45-50 mins) breakout by issue/bug
-- (5 mins) come back and share insights, log hours in [benevity](https://github.com/github/octoseven-advocats/blob/main/Logging%20Benevity.md)
-
+- (5 mins) come back and share insights, log hours in Benevity
 ### What is the stack?
 🖼 🎨 ⚙️ Fullstack development stack uses Vue, Node, and Postgres.
 🔍 QA uses Jest and Typescript.
