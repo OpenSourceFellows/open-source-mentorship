@@ -3,7 +3,7 @@ name: Write a blog
 about: Instructions and time management for fellows writing a blog
 title: Blog by @fellow
 labels: blog, content lab, in progress
-assignees: ''
+assignees: unnamedrd
 
 ---
 
