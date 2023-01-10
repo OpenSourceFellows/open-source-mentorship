@@ -55,7 +55,7 @@ Hi and welcome to Content Lab! Here is a self paced guide to ensure you get feed
 - [ ] References to resources 
 
 <a href="draft"></a>
-📰 ## Blog Rough draft: Format into a google doc 
+## 📰 Blog Rough draft: Format into a google doc 
 `Questions to answer across draft`
 > - Why is this helpful for a reader? 
 > - What problem does this help them solve? 
