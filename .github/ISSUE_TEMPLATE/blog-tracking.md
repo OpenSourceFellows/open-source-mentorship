@@ -1,7 +1,7 @@
 ---
 name: Write a blog
-about: Instructions and time management for fellows writing a blog
-title: Blog by @fellow
+about: ✍️ Instructions and time management for fellows writing a blog
+title: ✍️ @fellowname's Blog 
 labels: blog, content lab, in progress
 assignees: unnamedrd
 
