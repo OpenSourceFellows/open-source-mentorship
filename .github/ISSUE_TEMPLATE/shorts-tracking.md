@@ -42,6 +42,7 @@ Hi and welcome to Content Lab! Here is a self paced guide to ensure you get feed
 
 ### ⬇️ To Do: when you complete the requirements, add "outline ready" label on your issue
 - [ ] Identify your topic from one of the PRs approved from project Amplify
+- [ ] test your topic at a twitter space 
 - [ ] Outlining bullet points in storyboard
 - [ ] Is this a a List, Survey, or demo?
 - [ ] Which Visuals will you add
