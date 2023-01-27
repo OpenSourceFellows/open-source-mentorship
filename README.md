@@ -1,17 +1,25 @@
-# open-source-mentorship: where we foster the next generation in climatetech
-[Meet our fellows](https://www.notion.so/programequity/ProgramEquity-Open-Source-Fellows-5f4dfc06109842779b81e8166c056334)
-
-[Sign up to mentor here](https://forms.gle/ZdLDDTExwj6NrKuK8)
-
 # Next Cohort: January 30th - April 21st 2023
 
 ## What is an Open Source Mentor?
+ProgramEquity is fostering the next generation in open source and climatetech!
+
+[Meet our fellows](https://www.notion.so/programequity/ProgramEquity-Open-Source-Fellows-5f4dfc06109842779b81e8166c056334)
+
+[Sign up to mentor here](https://forms.gle/ZdLDDTExwj6NrKuK8)
 
 [View Our 2022 Impact Report](https://www.canva.com/design/DAFW7oovgdE/TTiES7OrTGG4hkeSGcofKQ/view?utm_content=DAFW7oovgdE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 Open source mentors provide student fellows first hand open source experience through working on [ProgramEquity](https://programequity.notion.site/ProgramEquity-6795c87b9a4a4eeea868294eacdb957c)’s project [Amplify](https://github.com/ProgramEquity/amplify) via [pair hours](./Pair%20Hours/README.md), career-related and technical [workshops](./Workshops/README.md), and [content labs](./Content%20Labs/README.md)
 
 To learn more about the MLH Open Source Fellowship, go [here](https://fellowship.mlh.io/programs/open-source).
+
+## Is this for me?
+
+This might be for you if you ...
+
+* Have patience for folks from extensive backgrounds learning curve around open source and webapps 
+* Enjoy or would like to expand your knowledge of VueJS
+* Would like to contribute to open source projects impacting sustainability from an advocacy perspective 
 
 ## How it Works
 
@@ -73,15 +81,10 @@ We look for 10-12 people to be mentors for Pair Hours and 25-35 people to presen
   </tr>
 </table>
 
-## Is this for me?
-
-This might be for you if you ...
-
-* Have patience for folks from extensive backgrounds learning curve around open source and webapps 
-* Enjoy or would like to expand your knowledge of VueJS
-* Would like to contribute to open source projects impacting sustainability from an advocacy perspective 
 
 ## How do I get involved?
+
+[Sign up to mentor here](https://forms.gle/ZdLDDTExwj6NrKuK8)
 
 1. Check out the [workshops](Workshops/README) and/or [pair hours](Pair_Hours/README) schedule and reach out to the person listed in the DRI column if you have any questions.
 2. Sign up and reference the workshop or pair hour in the [google form](https://forms.gle/WQZsUUWP3knJTzY9A). (You’re welcome to submit a workshop you didn’t see listed)
