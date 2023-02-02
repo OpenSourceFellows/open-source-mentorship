@@ -1,16 +1,3 @@
-[Sign Up To Mentor](https://forms.gle/WQZsUUWP3knJTzY9A) | [FAQ](./FAQ.md)
-
-## How to Participate:
-
-|Asynchronous|Pair Live| 
-| ----| ---|
-|- Review 1-2 PRs and leave constructive comments| - drive a session or answer questions for the hour
-|- Fellows and mentor communicate via Issue or  PR |- During pair hour, show how to work with copilot on the problem
-| - Have PRs reviewed by Friday | - How to search for things in repo | 
-||- How to read documentation
-||- Note major decisions in issue for the pair hour
-||
-
 # [Project Board](https://github.com/orgs/ProgramEquity/projects/11/)
 
 ### Issue Labels

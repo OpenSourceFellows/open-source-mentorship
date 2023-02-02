@@ -1,5 +1,17 @@
 Hi there, thank you for joining as a mentor during our pair hours!  Please add any questions we've missed in the comments or reach out to @wallace or @manishapriya94 
 
+[Sign Up To Mentor](https://forms.gle/WQZsUUWP3knJTzY9A) | [FAQ](FAQ.md)
+
+## How to Participate:
+
+|Asynchronous|Pair Live| 
+| ----| ---|
+|- Review 1-2 PRs and leave constructive comments| - drive a session or answer questions for the hour
+|- Fellows and mentor communicate via Issue or  PR |- During pair hour, show how to work with copilot on the problem
+| - Have PRs reviewed by Friday | - How to search for things in repo | 
+||- How to read documentation
+||- Note major decisions in issue for the pair hour
+||
 
 ## Some resources before the meeting:
 - you should have a calendar invite for weeks you've signed up for
@@ -9,14 +21,14 @@ Hi there, thank you for joining as a mentor during our pair hours!  Please add a
 
 # FAQ:
 ### What is the structure of the hour?
-- (10-15) intros and wallkthrough of issues/bugs that pair hour 
+- (10-15) intros and walkthrough of issues/bugs that pair hour 
 - (45-50 mins) breakout by issue/bug
 - (5 mins) come back and share insights, log hours in Benevity
 ### What is the stack?
 🖼 🎨 ⚙️ Fullstack development stack uses Vue, Node, and Postgres.
 🔍 QA uses Jest and Typescript.
 
-### What is a successful pair hour/overall program look like?
+### What does successful pair hour/overall program look like?
 - learning has happened! Whether its about the stack or the SDLC in general 
 - Sometimes that looks like..
   - having an outline of tasks to accomplish on an issue 
