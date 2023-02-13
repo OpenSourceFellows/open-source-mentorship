@@ -1,0 +1,77 @@
+name: Workshop Organization Form
+description: This template is for collecting information about the speaker and workshop details.
+title: "[Workshop] <workshop title> |  <date>"
+labels: ["workshop"]
+assignees:
+  - therzka
+body:
+  - type: textarea
+    attributes: 
+      label: 🎤 Speaker Info
+      description: "Fill in the following for each speaker"
+      value: |
+        **Name**:  
+        **GitHub Handle**:  
+        **Bio**:  
+        **LinkedIn**:  
+  - type: markdown
+    id: workshop-links-header
+    attributes:
+      value: "#### 🔗 Workshop Links"
+  - type: input
+    id: zoom-link
+    attributes:
+      label: Zoom Link
+      value: "https://github.zoom.us/j/97013759503?pwd=aDd5NmNKQTNsbGlLQWhuSm4vVEFGdz09"
+  - type: input
+    id: eventbrite
+    attributes:
+      label: Eventbrite Link
+  - type: input
+    id: notion
+    attributes:
+      label: Notion Link
+  - type: markdown
+    id: for-speakers
+    attributes:
+      value: "### For Speakers"
+  - type: textarea
+    id: pres-overview
+    attributes:
+      label: Presentation Overview
+      description: Include a bullet point outline or description of the talk (or add a link), including any demos or breakouts that might take place.
+  - type: textarea
+    id: materials
+    attributes:
+      label: Link to materials
+      description: Add links to any materials that accompany your presentation, such as a slide deck, post-session feedback survey, or other links.
+  - type: markdown
+    id: operations
+    attributes:
+      value: "#### Operations"
+  - type: markdown
+    id: ops-checklist
+    attributes:
+      value: |
+        - [ ] Send the following copy in chat following your presentation: https://github.com/ProgramEquity/open-source-mentorship/blob/main/Workshops/post_workshop_links.md
+        - [ ] Send organizer links to slide deck and materials to put in this repo.
+  - type: markdown
+    id: organizers
+    attributes:
+      value: |
+        ---
+        ### For Organizers
+  - type: markdown
+    id: operations
+    attributes:
+      value: |
+        #### Pre-workshop
+          - [ ] Speaker confirmed for the date and time with calendar invite
+          - [ ] Slide content in shared drive
+          - [ ] (optional) zoom poll set up
+          - [ ] (optional) dress rehearsal if requested
+
+        #### Post-workshop
+          - [ ] content updated in https://github.com/ProgramEquity/open-source-mentorship/blob/main/Workshops/
+          - [ ] speaker filled out [post-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSdBFNLjA4xwSgo4R3pynsLtauspGSeUtAS3Q7VxydfAUFFqhg/viewform)
+          - [ ] Content updated in Notion card and recording uploaded
