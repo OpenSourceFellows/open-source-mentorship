@@ -26,6 +26,6 @@ Content Lab Streams
 - Fellows create an issue using [this template](https://github.com/ProgramEquity/open-source-mentorship/issues/new?assignees=unnamedrd&labels=content+lab%2C+in+progress%2C+shorts&template=shorts-tracking.md&title=%F0%9F%8E%A5+%40fellowname%27s+video+short)
 - Goal: Publish a short video on company TikTok or YouTube channel
 - Schedule
-  - Week 2: Create a storyboard outline 
-  - Week 3: Film and get input for review in issue
-  - Week 5: Final polish and submit for publishing 
+  - Week 5: Create a storyboard outline 
+  - Week 7: Film and get input for review in issue
+  - Week 9: Final polish and submit for publishing 
