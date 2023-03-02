@@ -1,6 +1,6 @@
 # Content Labs
 
-## [Slides - Content Lab Overview](https://docs.google.com/presentation/d/1IIL2dFjf_0FoV3cq59HsuquUCxrkc3xjznkDqG2RmK4/edit?usp=sharing)
+## [Slides - Content Lab Overview](https://docs.google.com/presentation/d/1aJJ_zOslJD0nkrrefPq28wFPPaIO93yzmo7ckLdxVUM/edit#slide=id.g214cbf4c8ab_0_15)
 
 Content Lab Streams 
      Goal: Help fellows build an online presence in the dev community and be comfortable with sharing work and building in public. Topics come from the work they do through the program - they should reference a workshop or PR. 
