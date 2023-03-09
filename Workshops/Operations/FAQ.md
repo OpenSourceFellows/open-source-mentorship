@@ -1,8 +1,4 @@
-# Time commitment: 2 hours per topic
-
-- Spend an hour crafting the workshop with our Advocats enablement team
-- Deliver the topic to students
-
+[This page is a WIP]
 # Workflow:
 
 - Assign yourself an issue for the topic you’d like to cover that works with your schedule - you decide the time for preset days (each workshop has different deadlines and can be found in the schedule)
