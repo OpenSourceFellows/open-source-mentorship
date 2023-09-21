@@ -1,4 +1,4 @@
-# Next Cohort: January 30th - April 21st 2023
+# Next Cohort: October 15th-Dec 10th
 
 ## What is an Open Source Mentor?
 ProgramEquity is fostering the next generation in open source and climatetech!
