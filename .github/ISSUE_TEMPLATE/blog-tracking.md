@@ -14,10 +14,11 @@ Hi and welcome to Content Lab! Here is a self paced guide to ensure you get feed
 - [Previous blog posts](https://dev.to/dashboard)
 
 **Timeline:**
-- 📋 [Week 4: Create an outline by 3/2](#outline)
-- 📰 [Week 7: Rough draft due by 3/16](#draft)
-  - Mentor reviews by 3/30
-- Week 9: Final version due 4/7
+
+- 📋 [Dec 1st have an outline and open up issue](#outline)
+- 📰 [Dec 8th have rough draft in](#draft)
+  - Mentor reviews by 12/15
+- [ ] Dec 15th-20th turn in final draft
 
 <a href="outline"></a>
 ## 📋 Blog Outline: Write your outline in the issue directly 
